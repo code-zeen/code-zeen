@@ -4,6 +4,10 @@
   [![code-zeen's github stats](https://github-readme-stats.vercel.app/api?username=code-zeen&show_icons=true&theme=neon)](https://github.com/code-zeen/github-readme-stats)
 
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-zeen&layout=donut)
+
+
+
 <!--
 **code-zeen/code-zeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
