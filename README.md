@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-  [![code-zeen's github stats](https://github-readme-stats.vercel.app/api?username=code-zeen&show_icons=true&theme=dracula)](https://github.com/code-zeen/github-readme-stats)
+  [![code-zeen's github stats](https://github-readme-stats.vercel.app/api?username=code-zeen&show_icons=true&theme=tokyonight)](https://github.com/code-zeen/github-readme-stats)
 
 
 <!--
