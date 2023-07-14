@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+  [![code-zeen's github stats](https://github-readme-stats.vercel.app/api?username=code-zeen)](https://github.com/code-zeen/github-readme-stats)
+
+
 <!--
 **code-zeen/code-zeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
