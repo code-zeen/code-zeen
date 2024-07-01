@@ -1,5 +1,5 @@
 ## 안녕하세요 👋
-렌더링 효율성부터 변수 이름 하나까지 꼼꼼하게 따지는 프론트엔드 개발자입니다.
+변수 이름 하나까지 꼼꼼하게 따지는 프론트엔드 개발자입니다.
 
   <!--[![code-zeen's github stats](https://github-readme-stats.vercel.app/api?username=code-zeen&show_icons=true&theme=neon)](https://github.com/code-zeen/github-readme-stats)-->
 
