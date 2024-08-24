@@ -5,8 +5,6 @@
 
   ### 개인 리포:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-zeen&layout=donut&theme=neon)
-  ### 회사 리포:
-  ![스크린샷 2024-02-26 163538](https://github.com/code-zeen/code-zeen/assets/77660676/7f182607-b1e7-49c0-9a27-3be8894d79e5)
 
 
 <!--
