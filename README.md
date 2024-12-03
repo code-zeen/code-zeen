@@ -36,7 +36,7 @@
 
 ### Preference
 ![Static Badge](https://img.shields.io/badge/WebStorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub__Desktop-%238368F4?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub_Desktop-%238368F4?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Claude-%23D97757?style=for-the-badge&logo=claude&logoColor=white)
 
